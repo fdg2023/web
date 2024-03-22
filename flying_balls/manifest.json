@@ -1,6 +1,6 @@
 {
-    "name": "flying_generalprobe",
-    "short_name": "flying_generalprobe",
+    "name": "flying_balls",
+    "short_name": "flying_balls",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
